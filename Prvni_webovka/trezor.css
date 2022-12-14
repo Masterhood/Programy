@@ -1,0 +1,132 @@
+/* CSS Document */
+h2{
+color:magenta;
+text-align: Center;
+font-size: 60px;
+height: 80px;
+width: 120px;
+margin: 5px;
+}
+div.nadpis{
+color:magenta;
+text-align: Center;
+font-size: 80px;
+height: 100px;
+width: 120px;
+margin: 5px;
+}
+p.jekst{
+text-align:center;
+}
+a{
+font-size: 80px;
+}
+
+#navbar{
+color: black;
+font: italic 40px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: White;
+}
+#pre1{
+background-image: url("Codingbackground.png");
+background-repeat:no-repeat;
+background-position:center;
+background-size:cover;
+width:100%;
+height:100%;
+color:white;
+text-align: center;
+font-size: 30px;
+
+}
+
+form{
+background-color: white;
+text-align: bottom-right;
+color: Black;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: rgb(140, 140, 140);
+  font-size: 30px;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+
+.button_Test{
+  border: none;
+  color: green;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 2px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  }
+.button_rumour {
+  border: none;
+  color: green;
+  padding: 16px 32px;
+  text-align: top-right;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 2px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  }
+
+#pre14{
+color:black;
+}
+#testID{
+color:black;
+}
+footer{
+background-color:;
+text-align:center;
+color:black;
+ font-size: 30px;
+}
+img{
+text-align: center;
+}
+div.gallery {
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 180px;
+}
+
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
